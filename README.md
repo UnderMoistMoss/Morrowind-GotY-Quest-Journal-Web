@@ -9,5 +9,8 @@ Or download index.html and open in a browser for offline use. As everything is s
 ## Credits
 Based on Nerevar72's [Morrowind-GotY-Quest-Journal-public repo](https://github.com/Nerevar72/Morrowind-GotY-Quest-Journal-public/tree/main).
 
+## Note on AI Generation:
+The core structure of this repository was generated using AI. My focus was primarily on prompt engineering, architectural oversight, and code review.
+
 ## Note
 This is an unofficial fan-made reference and is not affiliated with or endorsed by Bethesda Softworks or ZeniMax Media. 
