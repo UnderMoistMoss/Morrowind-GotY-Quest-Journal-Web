@@ -7,7 +7,7 @@
 Or download index.html and open in a browser for offline use. As everything is self contained for portability.
 
 ## Credits
-Based on Nerevar72's [Morrowind-GotY-Quest-Journal-public repo](https://github.com/Nerevar72/Morrowind-GotY-Quest-Journal-public/tree/main).
+Based on Nerevar72's [Morrowind-GotY-Quest-Journal-public](https://github.com/Nerevar72/Morrowind-GotY-Quest-Journal-public/tree/main) and [Morrowind-GotY-Item-and-Console-Codes-Public](https://github.com/Nerevar72/Morrowind-GotY-Item-and-Console-Codes-Public) projects.
 
 ## Note on AI Generation:
 The core structure of this repository was generated using AI. My focus was primarily on prompt engineering, architectural oversight, and code review.
